@@ -1,1 +1,3 @@
+## NOTE - This is no longer under active development or maintenance, use at your own risk.
+
 Database of Veteran-led companies
